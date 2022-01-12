@@ -1,0 +1,22 @@
+{
+  "name": "mongoose-cp",
+  "version": "1.0.0",
+  "description": "this is the moongoose checkpoint",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose"
+  ],
+  "author": "mariem",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6"
+  },
+  "devDependencies": {
+    "dotenv": "^11.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
